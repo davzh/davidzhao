@@ -1,4 +1,14 @@
-title: David Zhao
+# Build settings
+
+# If you clone the Minima repo and build locally, use this setting.
+# theme: minima
+
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
+remote_theme: jekyll/minima
+
+title: David Zhao's blog
 author:
   name: dzhao
   email: your-email@domain.com
@@ -9,12 +19,3 @@ description: >
   Personal site for my writing and reflections. Interested in crypto, AI, optimism, social technologies. Learning through writing. /*Sic transit gloria mundi*/
   
 
-# Build settings
-
-# If you clone the Minima repo and build locally, use this setting.
-# theme: minima
-
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
-# add a line comment on "theme: minima" above.
-remote_theme: jekyll/minima
